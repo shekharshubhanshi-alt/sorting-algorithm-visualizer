@@ -28,6 +28,6 @@ logic, comparisons, swaps, and time complexity interactively.
 
 ## Run
 ```bash
-python sortingvisualizer2.py
+python sorting_visualizer. py
 
 
